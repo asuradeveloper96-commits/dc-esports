@@ -16,7 +16,7 @@ const Download = () => (
             <h1 className="text-4xl font-semibold text-white sm:text-5xl">Get the DC eSports app for Android.</h1>
             <p className="text-slate-300">Install the app to join events faster, open schedules directly from deep links, and stay connected to every match.</p>
             <div className="flex flex-wrap gap-4">
-              <a href="https://mega.nz/file/6aB0AKQL#33AiDnOrsqYVZ-97MiRCru1hk_ajkiY_qdfSnNDYTTM" target="_blank" rel="noopener noreferrer" className="rounded-full bg-gradient-to-r from-purple-500 to-sky-400 px-6 py-4 text-sm font-semibold text-slate-950 shadow-glow transition hover:brightness-110">
+              <a href="https://mega.nz/file/DbAGTBiZ#f2wzt886aOsZGgQQgxGygtjALiap0n9l58-dinHyNK4" target="_blank" rel="noopener noreferrer" className="rounded-full bg-gradient-to-r from-purple-500 to-sky-400 px-6 py-4 text-sm font-semibold text-slate-950 shadow-glow transition hover:brightness-110">
                 Download APK
               </a>
               <a href="#faq" className="inline-flex items-center rounded-full border border-white/10 px-6 py-4 text-sm font-semibold text-white transition hover:border-purple-400/40 hover:text-white">
