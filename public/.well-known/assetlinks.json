@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dcesports.app",
+      "sha256_cert_fingerprints": [
+        "80:91:6B:10:78:A0:F2:9C:52:57:7F:50:E2:EB:07:60:D9:B7:07:45:B1:4E:7B:00:61:63:09:8E:5F:08:A3:51"
+      ]
+    }
+  }
+]

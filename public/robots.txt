@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dcesports.com/sitemap.xml
